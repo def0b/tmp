@@ -7,11 +7,11 @@
      //   System.out.println(bigHeights(new int[]{5, 13, 6, 7, 2}, 0, 3));
         System.out.println(bigHeights(new int[]{5, 3, 6, 7, 2}, 2, 4));
         //      System.out.println(scoresAverage((new int[]{2, 2, 4, 4})));
-
+//afsaf
 //        System.out.println(gHappy("ggasdagg"));
         //  System.out.println(maxBlock("abbCCCddBBBxx"));
 
 
 //GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG TAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASKKKKKKKK2222222222222222222!!
-
+asdsadasd
     }
